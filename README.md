@@ -24,6 +24,7 @@ Commit test again now 3
 Commit test again now 4
 Commit test again now 5
 Commit test again now 6
+PR MERGED CHECKING
 Commit test again now 7
 Commit test again now 8
 Commit test again now 9
