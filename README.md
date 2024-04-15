@@ -26,7 +26,7 @@ Commit test again now 5
 Commit test again now 6
 PR MERGED CHECKING
 Commit test again now 7
-test in process 123
+
 Commit test again now 8
 Commit test again now 9
 Commit test again now 10
@@ -35,6 +35,7 @@ Commit test again now 12
 Commit test again now 13
 testing is in progress
 Thursday testt
-Testing analyze
+Testing analyze 12
 Exclsuion new added
+
 
