@@ -1,5 +1,5 @@
 # RomRepo
-testing purpose
+testing purpose purpose 2 for exclusion
 testing today
 today qa
 TEST TEST
@@ -36,3 +36,5 @@ Commit test again now 13
 testing is in progress
 Thursday testt
 Testing analyze
+Exclsuion new added
+
