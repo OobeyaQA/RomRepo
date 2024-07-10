@@ -42,3 +42,4 @@ Exclsuion new added
 
 new added line
 Start commit test
+Test pattern
