@@ -45,3 +45,4 @@ Start commit test
 Test pattern
 test again pattern
 hotfix
+hotfix
