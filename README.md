@@ -56,3 +56,6 @@ Testing pattern 4
 Test pattern 5
 Test Pattern 6
 hotfix
+Test Pattern 7
+hotfix
+Test Pattern 8
