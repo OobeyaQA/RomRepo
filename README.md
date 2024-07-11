@@ -50,3 +50,6 @@ hotfix
 hotfix
 test pattern 2
 hotfix
+testing pattern 3
+Hotfix
+Testing pattern 4
