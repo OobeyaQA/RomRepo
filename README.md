@@ -53,3 +53,6 @@ hotfix
 testing pattern 3
 Hotfix
 Testing pattern 4
+Test pattern 5
+Test Pattern 6
+hotfix
