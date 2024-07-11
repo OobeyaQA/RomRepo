@@ -44,6 +44,7 @@ new added line
 Start commit test
 Test pattern
 test pattern 1
+hotfix
 test again pattern
 hotfix
 hotfix
