@@ -46,3 +46,4 @@ Test pattern
 test again pattern
 hotfix
 hotfix
+hotfix
