@@ -82,3 +82,5 @@ TEST FOR NEW VERSION 02
 TEST FOR NEW VERSION 03
 Test for waiting 123
 test for good
+test draft 001
+test draft 002
